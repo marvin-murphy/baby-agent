@@ -277,9 +277,8 @@ my-agent/
 
 ## 📞 联系方式
 
-如有问题或建议，请通过以下方式联系：
+如有问题或建议，也先别联系：
 
-- 邮箱: [your-email@example.com]
 - 项目地址: [repository-url]
 
 ## 🙏 致谢
